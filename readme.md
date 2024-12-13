@@ -6,7 +6,7 @@ Application displays new hex colors when you hit the button every single time.
 
 ![App Screenshot](Image/ColorChanger.png)
 
-[Live Demo 🔗](https://parveshahamed-color-changer.netlify.app/)
+[Live Demo 🔗](https://cheerful-mooncake-53c96b.netlify.app/)
 
 ## Tools I've used
 
